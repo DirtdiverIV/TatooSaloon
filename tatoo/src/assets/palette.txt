@@ -1,0 +1,5 @@
+black #1C1A1B
+white #FEFDE8
+red #B91E2A
+blue #3F7A83
+yelow #F8A228
