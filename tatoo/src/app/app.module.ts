@@ -9,6 +9,7 @@ import { GalleryComponent } from './components/gallery/gallery.component';
 import { ArtistComponent } from './components/artist/artist.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { HomeComponent } from './views/home/home.component';
+import { VideobgComponent } from './components/videobg/videobg.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { HomeComponent } from './views/home/home.component';
     GalleryComponent,
     ArtistComponent,
     FooterComponent,
-    HomeComponent
+    HomeComponent,
+    VideobgComponent
   ],
   imports: [
     BrowserModule,

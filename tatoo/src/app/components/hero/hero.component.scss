@@ -1,0 +1,51 @@
+#mainDiv {
+    // border: 2px solid red;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+}
+
+#logo {
+    height: 100%;
+}
+
+#logoDiv {
+    // border: 2px solid red;
+    height: 100%;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+}
+
+#leftDiv {
+    // border: 2px solid red;
+    height: 100%;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2em;
+}
+
+#rightDiv {
+    // border: 2px solid red;
+    height: 100%;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2em;
+}
+
+#desc {
+    color: #FEFDE8;
+    text-shadow: 2px 2px 4px #B91E2A; /* Aquí puedes ajustar la distancia y el color de la sombra */
+}
+
+#cita {
+    background-color: #3F7A83;
+    border: 4px solid #FEFDE8;
+    color: black;
+    font-weight: bold;
+    font-size: 2em;
+}
